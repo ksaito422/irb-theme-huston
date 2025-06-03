@@ -2,6 +2,8 @@
 
 irb theme for [vscode-huston](https://github.com/withastro/houston-vscode)
 
+![Image](https://github.com/user-attachments/assets/b6af737c-05a3-4419-a397-9e00d59a82ca)
+
 ## Installation
 
 Install the gem and add to the application's Gemfile by executing:
